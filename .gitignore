@@ -1,0 +1,19 @@
+# === Backend ===
+stayfinder-backend/node_modules/
+stayfinder-backend/.env
+stayfinder-backend/package-lock.json
+
+# === Frontend ===
+stayfinder-frontend/node_modules/
+stayfinder-frontend/.env
+stayfinder-frontend/build/
+stayfinder-frontend/package-lock.json
+
+# === IDE / System ===
+.vscode/
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
+npm-debug.log*
